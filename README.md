@@ -3,7 +3,14 @@
     Alex Zang
   </head>
   <body>
-    <h3>
+    <h3> 
+      Current Projects 
+    </h3>
+    <p>
+    <a href="https://github.com/zang3r/baseball_vision_project"> Statkeeping with Computer Vision </a>
+    <a href="https://github.com/zang3r/leftieswebapp"> Shiny for Python Baseball Dashboard </a>
+    </p>
+      <h3>
       My Links
     </h3>
     <p>
