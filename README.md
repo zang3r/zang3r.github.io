@@ -8,6 +8,7 @@
     </h3>
     <p>
     <a href="https://github.com/zang3r/baseball_vision_project"> Statkeeping with Computer Vision </a>
+      <br>
     <a href="https://github.com/zang3r/leftieswebapp"> Shiny for Python Baseball Dashboard </a>
     </p>
       <h3>
