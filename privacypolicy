@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Privacy Policy</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+         max-width: 720px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
+  h1 { font-size: 1.6rem; } h2 { font-size: 1.15rem; margin-top: 1.6em; }
+  code { background: #f4f4f4; padding: 1px 5px; border-radius: 4px; }
+  footer { margin-top: 3em; font-size: 0.85rem; color: #666; }
+</style>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+<p><strong>Last updated:</strong> July 20, 2026</p>
+
+<p>This Privacy Policy describes how Alexander Zang ("we", "us", or "I")
+handles information in connection with the automated SMS text messages sent through this
+service.</p>
+
+<h2>1. Scope of this service</h2>
+<p>This is a personal, low-volume messaging service. Automated SMS notifications and alerts
+are sent only to the account owner's own mobile device. Messages are not sent to any third
+parties, and this service is not used for marketing to other people.</p>
+
+<h2>2. Information we collect</h2>
+<p>The only personal information involved is the mobile phone number of the account owner,
+which is used solely to deliver the automated text messages. We do not collect names,
+email addresses, location data, or any other personal information through this SMS service.</p>
+
+<h2>3. How we use information</h2>
+<p>The phone number is used exclusively to send the account owner's own automated
+notifications and alerts. It is not used for any other purpose.</p>
+
+<h2>4. Sharing of information</h2>
+<p>We do <strong>not</strong> sell, rent, share, or otherwise disclose the phone number or
+any message content to third parties for marketing or promotional purposes. Message content
+is transmitted through our SMS provider, Twilio, solely to deliver messages to the account
+owner's device. No mobile information is shared with third parties or affiliates for
+marketing or promotional purposes.</p>
+
+<h2>5. Message frequency and rates</h2>
+<p>Message frequency varies based on the automated triggers configured by the account owner.
+Message and data rates may apply, depending on the account owner's mobile carrier plan.</p>
+
+<h2>6. Opt-out</h2>
+<p>The account owner may stop receiving messages at any time by replying <code>STOP</code>
+to any message. Replying <code>HELP</code> returns basic help information. Because the
+account owner is the sole recipient, opt-in and opt-out are controlled entirely by the
+account owner.</p>
+
+<h2>7. Data retention and security</h2>
+<p>We retain only the information necessary to operate the service and take reasonable
+measures to protect it. Message delivery and storage on the carrier and provider side are
+subject to Twilio's own policies.</p>
+
+<h2>8. Contact</h2>
+<p>Questions about this Privacy Policy can be directed to: alexfxzang@gmail.com.</p>
+
+<footer>© 2026 Alexander Zang. This service is operated by an individual for
+personal use.</footer>
+</body>
+</html>
