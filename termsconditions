@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Terms and Conditions</title>
+<style>
+  body { font-family: -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+         max-width: 720px; margin: 40px auto; padding: 0 20px; line-height: 1.6; color: #222; }
+  h1 { font-size: 1.6rem; } h2 { font-size: 1.15rem; margin-top: 1.6em; }
+  code { background: #f4f4f4; padding: 1px 5px; border-radius: 4px; }
+  footer { margin-top: 3em; font-size: 0.85rem; color: #666; }
+</style>
+</head>
+<body>
+<h1>Terms and Conditions</h1>
+<p><strong>Last updated:</strong> July 20, 2026</p>
+
+<p>These Terms and Conditions govern the use of the automated SMS messaging service operated
+by Alexander Zang ("we", "us", or "I"). By enabling and using this service, the
+account owner agrees to these terms.</p>
+
+<h2>1. Description of service</h2>
+<p>This service sends automated SMS text notifications and alerts to the account owner's own
+mobile device. It is a personal, low-volume service and is not intended to send messages to
+any third parties.</p>
+
+<h2>2. Consent to receive messages</h2>
+<p>By configuring and enabling this service, the account owner consents to receive automated
+text messages at the mobile number they provide. Because the account owner is the sole
+recipient, consent is given by the account owner to themselves. No third-party consent is
+collected or required.</p>
+
+<h2>3. Message frequency and charges</h2>
+<p>Message frequency varies based on the automated triggers the account owner configures.
+<strong>Message and data rates may apply</strong> according to the account owner's mobile
+carrier plan. We are not responsible for any charges imposed by the mobile carrier.</p>
+
+<h2>4. Opt-out and help</h2>
+<p>The account owner can cancel messages at any time by replying <code>STOP</code>. After
+replying STOP, no further messages will be sent unless the account owner re-enables the
+service. Reply <code>HELP</code> for help information.</p>
+
+<h2>5. Acceptable use</h2>
+<p>This service is provided for the account owner's own personal notifications only. It may
+not be used to send unsolicited, unlawful, harassing, or marketing messages to any other
+person.</p>
+
+<h2>6. Disclaimer and limitation of liability</h2>
+<p>This service is provided "as is" without warranties of any kind. We do not guarantee that
+messages will be delivered on time or without error, as delivery depends on third-party
+providers and mobile carriers. To the fullest extent permitted by law, we are not liable for
+any damages arising from the use of, or inability to use, this service.</p>
+
+<h2>7. Changes to these terms</h2>
+<p>We may update these Terms and Conditions from time to time. The "Last updated" date above
+reflects the most recent revision.</p>
+
+<h2>8. Contact</h2>
+<p>Questions about these Terms can be directed to: alexfxzang@gmail.com.</p>
+
+<footer>© 2026 Alexander Zang. This service is operated by an individual for
+personal use.</footer>
+</body>
+</html>
