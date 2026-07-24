@@ -1,6 +1,6 @@
 <html>
   <head>
-    Alex Zang
+    Alexander Zang
   </head>
   <body>
     <h3> 
